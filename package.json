@@ -41,7 +41,7 @@
     "lodash": "4.17.21",
     "oauth2-server": "^3.1.1",
     "promisify-any": "2.0.1",
-    "statuses": "1.5.0",
+    "statuses": "2.0.1",
     "type-is": "1.6.18"
   },
   "devDependencies": {
